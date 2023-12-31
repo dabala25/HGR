@@ -5,11 +5,11 @@ Fist, Victory, Three, Five, Nice, Side, Thumbs Up and Thumbs Down
 
 ### 1.Install Reqiurements:
 
-1-1 clone train model : ```git clone https://github.com/dabala25/HGR```
+&emsp; Clone train model : ```git clone https://github.com/dabala25/HGR```
 
-1-2 clone yolov5 : ```git clone https://github.com/ultralytics/yolov5```
+&emsp; Clone yolov5 : ```git clone https://github.com/ultralytics/yolov5```
 
-1-3 install packages : ```pip install -r requirements.txt```
+&emsp; Install packages : ```pip install -r requirements.txt```
 
 ### 2-Model:
 There are 2 model to detect : 
