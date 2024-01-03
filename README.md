@@ -18,7 +18,7 @@ model s in exp folder and model m in exp2 folder
 move train folder to yolov5/runs
 
 ### 3-Detect:
-in yolov5 folder execute : ```python detect.py --source 0 --weights runs/train/exp2/weights/best.pt --conf 0.6```
+in yolov5 folder execute : ```python detect.py --source 0 --weights runs/train/exp2/weights/best.pt --conf 0.8```
 
 special thanks to https://github.com/shahriarEbram
 
